@@ -1,12 +1,12 @@
 # Tarefas
 
-## 1º Dia
+## 1º Dia - **Completado :muscle::rage1:**
 - [x] Conhecer a aplicação
 - [x] Configurar ambiente de desenvolvimento
 - - [x] Node JS & NPM
 - - [x] VSCode
-- [ ] Entender sobre o back-end & front-end
-- [ ] Criar projeto com Node JS
-- [ ] Entender sobre React & SPA
-- [ ] Criar projeto com ReactJS
-- [ ] Entender sobre React Native & Expo
+- [x] Entender sobre o back-end & front-end
+- [x] Criar projeto com Node JS
+- [x] Entender sobre React & SPA
+- [x] Criar projeto com ReactJS
+- [x] Entender sobre React Native & Expo
