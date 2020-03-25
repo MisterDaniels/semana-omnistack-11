@@ -20,7 +20,20 @@
 - [x] Utilizando o ~~Imsomnia~~ Postman :blush:
 - [x] Diferenças entre banco de dados
 - [x] Configurando banco de dados
-- [ ] Pensando nas entidades e funcionalidades
-- [ ] Construção do back-end
-- [ ] Adicionando módulo CORS
-- [ ] Enviando back-end ao Github
+- [x] Pensando nas entidades e funcionalidades
+- [x] Construção do back-end
+- [x] Adicionando módulo CORS
+- [x] Enviando back-end ao Github
+
+### Entidades
+- ONG
+- Caso (Incident)
+
+### Funcionalidades
+- ~~Login de Ong~~
+- ~~Logout de Ong~~ **Não precisa de rota**
+- ~~Cadastro de ONG~~
+- ~~Cadastrar novos casos/incidentes~~
+- ~~Listar todos os casos/incidentes~~
+- ~~Listas casos/incidentes de uma ONG~~
+- ~~Deletar casos/incidentes~~
