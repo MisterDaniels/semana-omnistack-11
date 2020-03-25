@@ -11,6 +11,8 @@
 - [x] Criar projeto com ReactJS
 - [x] Entender sobre React Native & Expo
 
+---
+
 ## 2º Dia
 - [x] Node JS & Express
 - - [x] Rotas e recursos
@@ -37,3 +39,21 @@
 - ~~Listar todos os casos/incidentes~~
 - ~~Listas casos/incidentes de uma ONG~~
 - ~~Deletar casos/incidentes~~
+
+---
+
+## 3º Dia
+- [x] Limpando estrutura
+- [ ] Conceitos de React
+- - [ ] Componente
+- - [ ] JSX
+- - [ ] Propriedades
+- - [ ] Estado
+- - [ ] Imutabilidade
+- [ ] Página de login
+- [ ] Configurando rotas
+- [ ] Cadastro de ONGs
+- [ ] Listagem de casos
+- [ ] Cadastro de um novo caso
+- [ ] Conectando a aplicação à API
+- [ ] Enviar projeto ao Github
