@@ -44,16 +44,16 @@
 
 ## 3º Dia
 - [x] Limpando estrutura
-- [ ] Conceitos de React
-- - [ ] Componente
-- - [ ] JSX
-- - [ ] Propriedades
-- - [ ] Estado
-- - [ ] Imutabilidade
-- [ ] Página de login
-- [ ] Configurando rotas
-- [ ] Cadastro de ONGs
+- [x] Conceitos de React
+- - [x] Componente
+- - [x] JSX
+- - [x] Propriedades
+- - [x] Estado
+- - [x] Imutabilidade
+- [x] Página de login
+- [x] Configurando rotas
+- [x] Cadastro de ONGs
 - [ ] Listagem de casos
 - [ ] Cadastro de um novo caso
-- [ ] Conectando a aplicação à API
+- [x] Conectando a aplicação à API
 - [ ] Enviar projeto ao Github
