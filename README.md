@@ -53,7 +53,7 @@
 - [x] Página de login
 - [x] Configurando rotas
 - [x] Cadastro de ONGs
-- [ ] Listagem de casos
-- [ ] Cadastro de um novo caso
+- [x] Listagem de casos
+- [x] Cadastro de um novo caso
 - [x] Conectando a aplicação à API
-- [ ] Enviar projeto ao Github
+- [x] Enviar projeto ao Github
