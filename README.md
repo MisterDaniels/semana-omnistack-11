@@ -13,7 +13,7 @@
 
 ---
 
-## 2º Dia
+## 2º Dia - **Completado :muscle::rage1:**
 - [x] Node JS & Express
 - - [x] Rotas e recursos
 - - [x] Métodos HTTP
@@ -42,7 +42,7 @@
 
 ---
 
-## 3º Dia
+## 3º Dia - **Completado :muscle::rage1:**
 - [x] Limpando estrutura
 - [x] Conceitos de React
 - - [x] Componente
@@ -57,3 +57,29 @@
 - [x] Cadastro de um novo caso
 - [x] Conectando a aplicação à API
 - [x] Enviar projeto ao Github
+
+---
+
+## 4º Dia
+- [x] Instalar Expo
+- [x] Criando projeto React Native
+- [x] Executando projeto
+- - [x] No celular
+- - [x] Emuladores
+- -  [x] Expo Snack
+- [x] Diferenças para o ReactJS
+- - [x] Elementos HTML
+- - [x] Semântica
+- - [x] Estilização
+- - - [x] Flexbox
+- - - [x] Propriedades
+- - - [x] Herança de estilos
+- - - [x] Estilização própria
+- [x] Estrutura de pastas
+- [x] Ícone e Splash Screen
+- [x] Configurando navegação
+- [x] Página de casos
+- [x] Detalhe do caso
+- [ ] Abrindo WhatsApp & E-mail
+- [ ] Conexão com a API
+- [ ] Enviando projeto ao Github
