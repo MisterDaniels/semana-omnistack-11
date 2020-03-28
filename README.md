@@ -60,7 +60,7 @@
 
 ---
 
-## 4º Dia
+## 4º Dia - **Completado :muscle::rage1:**
 - [x] Instalar Expo
 - [x] Criando projeto React Native
 - [x] Executando projeto
@@ -80,6 +80,6 @@
 - [x] Configurando navegação
 - [x] Página de casos
 - [x] Detalhe do caso
-- [ ] Abrindo WhatsApp & E-mail
-- [ ] Conexão com a API
-- [ ] Enviando projeto ao Github
+- [x] Abrindo WhatsApp & E-mail
+- [x] Conexão com a API
+- [x] Enviando projeto ao Github
