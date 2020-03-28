@@ -83,3 +83,26 @@
 - [x] Abrindo WhatsApp & E-mail
 - [x] Conexão com a API
 - [x] Enviando projeto ao Github
+
+---
+
+## 5º Dia - **Completado :muscle::rage1:**
+- [x] Adicionando validação
+- [x] Adicionando testes
+- - [x] Por que fazer testes?
+- - [x] TDD
+- - [x] Configurando Jest
+- - [x] Tipos de testes
+- - [x] Configurando banco de testes
+- - [x] Instalando supertest
+- - [x] Testando rota de autenticação
+- Deploy
+- - [x] Alternativas
+- - [x] Qual escolher?
+- [x] Estudos daqui pra frente
+- - [x] Padrões dde código: ESLint, Prettier
+- - [x] Autenticação JWT
+- - [x] Styled Components
+- [x] Dicas para aproveitar melhor
+- - [x] Github
+- - [x] Linkedin 
